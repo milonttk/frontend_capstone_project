@@ -1,4 +1,4 @@
-# Netlify Link 
+# Netlify Link for capstone netflix clone
 
 https://6418a9a501f1ec1715b13252--fascinating-marshmallow-38d525.netlify.app/
 
