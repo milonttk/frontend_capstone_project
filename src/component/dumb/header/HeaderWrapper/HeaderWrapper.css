@@ -1,0 +1,8 @@
+.header-wrapper{
+    background: url(../../../../images/home/home-bg.jpg);
+    background-position:top left;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px 10px;
+
+}

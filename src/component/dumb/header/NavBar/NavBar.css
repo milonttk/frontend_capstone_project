@@ -1,0 +1,10 @@
+.navbar-home{
+    max-width: 1920px;
+    display:flex;
+    justify-content: space-between;
+    padding:5px 10px;
+    padding-top: 5px;
+    align-items: center;
+    margin: auto;
+    margin-top: 0px;
+}
