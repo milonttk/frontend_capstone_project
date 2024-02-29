@@ -1,6 +1,6 @@
 # Netlify Link for capstone netflix clone
 
-https://6418a9a501f1ec1715b13252--fascinating-marshmallow-38d525.netlify.app/
+https://fascinating-marshmallow-38d525.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
